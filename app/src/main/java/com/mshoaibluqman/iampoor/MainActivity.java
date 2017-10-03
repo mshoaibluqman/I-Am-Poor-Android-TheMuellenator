@@ -1,4 +1,4 @@
-package com.londonappbrewery.iampoor;
+package com.mshoaibluqman.iampoor;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

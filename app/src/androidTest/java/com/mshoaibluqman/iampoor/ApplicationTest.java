@@ -1,4 +1,4 @@
-package com.londonappbrewery.iampoor;
+package com.mshoaibluqman.iampoor;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

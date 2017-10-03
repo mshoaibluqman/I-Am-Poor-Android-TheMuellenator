@@ -1,4 +1,4 @@
-package com.londonappbrewery.iampoor;
+package com.mshoaibluqman.iampoor;
 
 import org.junit.Test;
 
